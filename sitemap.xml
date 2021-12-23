@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://jky.zone/music/index.html</loc>
+    
+    <lastmod>2021-12-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://jky.zone/messageboard/index.html</loc>
     
     <lastmod>2021-12-23</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>http://jky.zone/tags/index.html</loc>
-    
-    <lastmod>2021-12-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://jky.zone/music/index.html</loc>
     
     <lastmod>2021-12-23</lastmod>
     
