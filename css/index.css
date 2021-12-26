@@ -3460,7 +3460,7 @@ blockquote footer cite:before {
   line-height: 1.5;
 }
 #page-header #site-title {
-  margin: 0.2em;
+  margin: 0.4em;
   color: #dfecd5;
   font-size: 1.85em;
 }
@@ -3470,7 +3470,7 @@ blockquote footer cite:before {
   }
 }
 #page-header #site-subtitle {
-  color: #f9f1db;
+  color: #f2b9b2;
   font-size: 1.15em;
 }
 @media screen and (min-width: 768px) {
